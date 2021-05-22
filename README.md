@@ -1,1 +1,3 @@
 # mealOrderingApp
+
+react and django
